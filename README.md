@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...krishan7830264757@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...Hindi-English
+
 
 <!---
 Krishanpratap27/Krishanpratap27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
